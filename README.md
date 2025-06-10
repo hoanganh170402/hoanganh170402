@@ -74,12 +74,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hoanganh170402/hoanganh170402/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <a href="www.linkedin.com/in/hoàng-anh-97402b285" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
